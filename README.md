@@ -8,7 +8,7 @@ This project focuses on cleaning and analyzing a global layoffs dataset using SQ
 
 ## 📁 Dataset
 
-- **Source**: [Layoffs Dataset – GitHub Repository](https://github.com/layoffs-tracker/layoffs)
+- **Source**: [Layoffs Dataset – Kaggle](https://www.kaggle.com/code/pranaii/layoffs-2022-interactive-visualisation-eda)
 - **Database Used**: `world_layoffs`
 - **Original Table**: `layoffs`
 - **Staging Table**: `layoffs_staging2`
