@@ -77,7 +77,7 @@ This project focuses on cleaning and analyzing a global layoffs dataset using SQ
 ![Top Companies](images/top_companies_by_layoffs.png)
 
 ### 🔹 Monthly Layoff Trend
-![Layoff Trend](images/monthly_layoffs_rolling_total.png)
+![Layoff Trend](images/mothly_layoffs_rolling_total.png)
 
 ---
 
