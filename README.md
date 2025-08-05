@@ -111,3 +111,8 @@ After cleaning, the data was exported as CSV and loaded into **Power BI** for vi
 ## 📎 Dataset Source
 
 - Dataset: [Layoffs Dataset on Kaggle](https://www.kaggle.com/code/pranaii/layoffs-2022-interactive-visualisation-eda)
+
+## 📫 Contact
+- **[Chioma Nnadi]**
+- 📧 [Email](nnadicvictoria@gmail.com)
+- 🔗 [Linkedin](https://www.linkedin.com/in/nnadichioma/)
