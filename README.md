@@ -20,7 +20,7 @@ This project focuses on cleaning and analyzing a global layoffs dataset using SQ
 - MySQL
 - MySQL Workbench
 - GitHub
-- Power Bi
+- Power BI
 
 ---
 
@@ -90,6 +90,8 @@ After cleaning, the data was exported as CSV and loaded into **Power BI** for vi
 ### 🔹 Monthly Layoff Trend
 ![Layoff Trend](images/mothly_layoffs_rolling_total.png)
 
+### 🔹 Power BI Visualization
+![Power Bi Visualization](images/layoffs_visualization.png)
 ---
 
 ## 🧠 Learnings
@@ -98,7 +100,10 @@ After cleaning, the data was exported as CSV and loaded into **Power BI** for vi
 - Importance of staging tables for safe data transformation
 - SQL is effective for both cleaning and deriving early insights
 - Handling nulls and inconsistencies improves analysis accuracy
-
+- Power BI enables clear, interactive storytelling
+- Most layoffs occurred in the tech sector, especially in 2022–2023
+- U.S.-based companies dominate the list
+  
 ---
 
 ---
