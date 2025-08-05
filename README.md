@@ -20,6 +20,7 @@ This project focuses on cleaning and analyzing a global layoffs dataset using SQ
 - MySQL
 - MySQL Workbench
 - GitHub
+- Power Bi
 
 ---
 
@@ -69,6 +70,16 @@ This project focuses on cleaning and analyzing a global layoffs dataset using SQ
 - `UPDATE`, `DELETE`, `ALTER`, and `TRIM` functions
 
 ---
+## 📊 Power BI Dashboard
+
+After cleaning, the data was exported as CSV and loaded into **Power BI** for visualization.
+
+### 🔧 Tools Used:
+- Bar Chart (Top Companies by Layoffs)
+- Line Chart (Monthly Layoff Trend)
+- Map Visual (Layoffs by Country)
+- Slicers for interactivity
+
 ---
 
 ## 📈 Sample Visuals
@@ -89,17 +100,6 @@ This project focuses on cleaning and analyzing a global layoffs dataset using SQ
 - Handling nulls and inconsistencies improves analysis accuracy
 
 ---
-
-## 📂 Repository Structure
-
-sql-layoffs-analysis/
-│
-├── README.md
-├── sql/
-│ └── layoffs_analysis.sql
-└── images/
-└── (to be added)
-
 
 ---
 
