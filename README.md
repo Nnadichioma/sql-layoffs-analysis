@@ -69,6 +69,20 @@ This project focuses on cleaning and analyzing a global layoffs dataset using SQ
 - `UPDATE`, `DELETE`, `ALTER`, and `TRIM` functions
 
 ---
+---
+
+## 📈 Sample Visuals
+
+### 🔹 Top 10 Companies by Layoffs
+![Top Companies](images/top_companies.png)
+
+### 🔹 Monthly Layoff Trend
+![Layoff Trend](images/monthly_trend.png)
+
+### 🔹 Industry Comparison
+![Industry Chart](images/industry_breakdown.png)
+
+---
 
 ## 🧠 Learnings
 
